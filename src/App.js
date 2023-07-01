@@ -13,7 +13,13 @@ function App() {
     <div className="App">
       <NavbarPro />
       <CarouselPro />
-      <button type="button" class="btn btn-danger" onclick="https://www.google.com/">CV Scarlett</button>
+      <button
+        type="button"
+        class="btn btn-danger opacity-50"
+        onclick="window.location.href='https://drive.google.com/file/d/1GWwiyROIJthovi7XQpI27AKfI5y1HKtF/view?usp=drivesdk'"
+      >
+        CV Scarlett
+      </button>
       <GalleryPro />
 
       <div class="container">

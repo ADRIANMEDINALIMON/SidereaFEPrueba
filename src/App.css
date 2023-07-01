@@ -12,12 +12,7 @@
   background-color: transparent !important;
   
 }
-.img-thumbnail {
-  width: 420px;
-  height: 600px;
-  object-fit: cover;
-  object-position: center;
-}
+
 .navbar-nav.navbar-center {
   position: absolute;
   left: 50%;
