@@ -34,7 +34,7 @@ function GalleryPro() {
         <div class="row">
           <div class="col">
             <img
-              src="https://i.ibb.co/KjvnW8f/IMG-1508.png"
+              src="https://i.ibb.co/JHhrt6R/IMG-1507.png"
               class="figure-img img-fluid rounded"
               alt="..."
             />

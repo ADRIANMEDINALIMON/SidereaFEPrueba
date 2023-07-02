@@ -7,10 +7,8 @@ function CarouselPro() {
   return (
     <div class="container">
   <div class="row">
-    <div class="col-1">
-      .
-    </div>
-    <div class="col-10">
+
+    <div class="col-12">
     <Carousel>
     <Carousel.Item>
       <img
@@ -47,9 +45,6 @@ function CarouselPro() {
       </Carousel.Caption>
     </Carousel.Item>
   </Carousel>
-    </div>
-    <div class="col-1">
-     .
     </div>
   </div>
   </div>

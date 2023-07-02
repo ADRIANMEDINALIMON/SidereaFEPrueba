@@ -13,15 +13,10 @@ function App() {
     <div className="App">
       <NavbarPro />
       <CarouselPro />
-      <button
-        type="button"
-        class="btn btn-danger opacity-50"
-        onclick="window.location.href='https://drive.google.com/file/d/1GWwiyROIJthovi7XQpI27AKfI5y1HKtF/view?usp=drivesdk'"
-      >
-        CV Scarlett
-      </button>
+      <a class="btn btn-info fs-1 fw-bolder opacity-50" href="https://drive.google.com/file/d/1GWwiyROIJthovi7XQpI27AKfI5y1HKtF/view?usp=drivesdk" role="button">
+        CV 
+      Scarlett</a>
       <GalleryPro />
-
       <div class="container">
         <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
           <div class="col-md-4 d-flex align-items-center">
