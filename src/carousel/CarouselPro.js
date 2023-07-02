@@ -13,7 +13,7 @@ function CarouselPro() {
     <Carousel.Item>
       <img
         className="d-block w-100"
-        src="https://i.ibb.co/98Rk7Np/Ilustraci-n-sin-t-tulo.png" alt="Ilustraci-n-sin-t-"
+        src="https://i.ibb.co/QYh4BP2/IMG-1606.png" alt="Ilustraci-n-sin-t-"
       />
       <Carousel.Caption>
       <h3>.</h3>

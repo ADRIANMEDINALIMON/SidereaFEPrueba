@@ -55,14 +55,14 @@ function GalleryPro() {
           </div>
         </div>
         <div class="row">
-          <div class="col">
+          <div class="col order-6">
             <img
               src="https://i.ibb.co/NmP8V44/IMG-20220422-044152.jpg"
               class="figure-img img-fluid rounded"
               alt="..."
             />
           </div>
-          <div class="col order-4">
+          <div class="col order-6">
             <img
               src="https://i.ibb.co/vJ62f0x/IMG-20220422-044149.jpg"
               class="figure-img img-fluid rounded"
@@ -88,6 +88,39 @@ function GalleryPro() {
           <div class="col order-4">
             <img
               src="https://i.ibb.co/vJ6z9Xp/IMG-1511.png"
+              class="figure-img img-fluid rounded"
+              alt="..."
+            />
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col order-6">
+            <img
+              src="https://i.ibb.co/W0LvBvk/Captura-SSTUDIO2.png"
+              class="figure-img img-fluid rounded"
+              alt="..."
+            />
+          </div>
+          <div class="col order-6">
+            <img
+              src="https://i.ibb.co/L66Txtx/Captura-SSTUDIO.png"
+              class="figure-img img-fluid rounded"
+              alt="..."
+            />
+          </div>
+        </div>
+        <div class="row">
+          <div class="col order-6">
+            <img
+              src="https://i.ibb.co/j5gT9ch/IMG-1603.png"
+              class="figure-img img-fluid rounded"
+              alt="..."
+            />
+          </div>
+          <div class="col order-6">
+            <img
+              src="https://i.ibb.co/wBdb5HX/IMG-1509.png"
               class="figure-img img-fluid rounded"
               alt="..."
             />
